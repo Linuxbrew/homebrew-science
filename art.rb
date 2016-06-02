@@ -1,3 +1,4 @@
+# art: Build a bottle for Linuxbrew
 class Art < Formula
   desc "Simulation tools to generate synthetic NGS reads"
   homepage "http://www.niehs.nih.gov/research/resources/software/biostatistics/art/index.cfm"
