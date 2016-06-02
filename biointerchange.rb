@@ -1,3 +1,4 @@
+# biointerchange: Build a bottle for Linuxbrew
 class Biointerchange < Formula
   desc "Scaling and integrating genomics data."
   homepage "https://www.codamono.com/biointerchange/"
