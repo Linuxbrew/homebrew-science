@@ -1,3 +1,4 @@
+# cap3: Build a bottle for Linuxbrew
 class Cap3 < Formula
   homepage "http://seq.cs.iastate.edu/cap3.html"
   desc "CAP3: A DNA Sequence Assembly Program"
