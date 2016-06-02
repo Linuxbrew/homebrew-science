@@ -1,3 +1,4 @@
+# bfc: Build a bottle for Linuxbrew
 class Bfc < Formula
   desc "High-performance error correction for Illumina resequencing data"
   homepage "https://github.com/lh3/bfc"
