@@ -1,3 +1,4 @@
+# genewise: Build a bottle for Linuxbrew
 class Genewise < Formula
   desc "Aligns proteins or protein HMMs to DNA"
   homepage "http://www.ebi.ac.uk/~birney/wise2/"
