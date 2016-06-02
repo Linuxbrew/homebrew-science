@@ -1,3 +1,4 @@
+# corset: Build a bottle for Linuxbrew
 class Corset < Formula
   desc "Clusters de novo assembled transcripts and counts overlapping reads"
   homepage "https://github.com/Oshlack/Corset/wiki"
