@@ -1,3 +1,4 @@
+# amos: Build a bottle for Linuxbrew
 class Amos < Formula
   desc "A Modular Open-Source Assembler"
   homepage "http://sourceforge.net/apps/mediawiki/amos/index.php?title=AMOS"
