@@ -1,3 +1,4 @@
+# blasr: Build a bottle for Linuxbrew
 class Blasr < Formula
   desc "PacBio long read aligner"
   homepage "https://github.com/PacificBiosciences/blasr"
