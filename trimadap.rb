@@ -1,3 +1,4 @@
+# trimadap: Build a bottle for Linuxbrew
 class Trimadap < Formula
   desc "Fast but inaccurate adapter trimmer for Illumina reads"
   homepage "https://github.com/lh3/trimadap"
