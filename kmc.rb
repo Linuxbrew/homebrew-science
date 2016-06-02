@@ -1,3 +1,4 @@
+# kmc: Build a bottle for Linuxbrew
 class Kmc < Formula
   desc "Fast and frugal disk based k-mer counter"
   homepage "http://sun.aei.polsl.pl/kmc/"
