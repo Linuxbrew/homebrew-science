@@ -1,3 +1,4 @@
+# ace-corrector: Build a bottle for Linuxbrew
 class AceCorrector < Formula
   desc "correct substitution errors in Illumina reads"
   homepage "https://github.com/Sheikhizadeh/ACE"
