@@ -1,3 +1,4 @@
+# hmmer: Build a bottle for Linuxbrew
 class Hmmer < Formula
   desc "Build profile HMMs and scan against sequence databases"
   homepage "http://hmmer.janelia.org"
