@@ -1,3 +1,4 @@
+# clustal-w: Build a bottle for Linuxbrew
 class ClustalW < Formula
   homepage "http://www.clustal.org/clustal2/"
   # tag "bioinformatics"
