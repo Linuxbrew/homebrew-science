@@ -1,3 +1,4 @@
+# bioawk: Build a bottle for Linuxbrew
 class Bioawk < Formula
   desc "awk modified for biological data"
   homepage "https://github.com/lh3/bioawk"
