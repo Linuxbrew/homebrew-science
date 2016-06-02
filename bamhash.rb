@@ -1,3 +1,4 @@
+# bamhash: Build a bottle for Linuxbrew
 class Bamhash < Formula
   homepage "https://github.com/DecodeGenetics/BamHash"
   # doi "10.1101/015867"
