@@ -1,3 +1,4 @@
+# bless: Build a bottle for Linuxbrew
 class Bless < Formula
   homepage "https://sourceforge.net/projects/bless-ec/"
   # doi "10.1093/bioinformatics/btu030"
