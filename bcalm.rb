@@ -1,3 +1,4 @@
+# bcalm: Build a bottle for Linuxbrew
 class Bcalm < Formula
   desc "de Bruijn CompAction in Low Memory"
   homepage "https://github.com/Malfoy/bcalm"
