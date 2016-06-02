@@ -1,3 +1,4 @@
+# abyss-explorer: Build a bottle for Linuxbrew
 class AbyssExplorer < Formula
   desc "Visualize genome sequence assemblies"
   homepage "http://www.bcgsc.ca/platform/bioinfo/software/abyss-explorer"
