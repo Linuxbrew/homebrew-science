@@ -1,3 +1,4 @@
+# clark: Build a bottle for Linuxbrew
 class Clark < Formula
   desc "Fast, accurate and versatile kmer based classification system"
   homepage "http://clark.cs.ucr.edu/"
