@@ -1,3 +1,4 @@
+# a5: Build a bottle for Linuxbrew
 class A5 < Formula
   desc "Pipeline for de novo assembly of microbial genomes"
   homepage "https://sourceforge.net/projects/ngopt/"
