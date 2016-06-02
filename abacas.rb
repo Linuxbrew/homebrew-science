@@ -1,3 +1,4 @@
+# abacas: Build a bottle for Linuxbrew
 class Abacas < Formula
   desc "Automatic contiguation of assembled sequences"
   homepage "http://abacas.sourceforge.net/"
