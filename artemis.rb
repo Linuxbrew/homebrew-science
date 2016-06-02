@@ -1,3 +1,4 @@
+# artemis: Build a bottle for Linuxbrew
 class Artemis < Formula
   desc "Genome browser and annotation tool"
   homepage "http://www.sanger.ac.uk/science/tools/artemis"
