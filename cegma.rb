@@ -1,3 +1,4 @@
+# cegma: Build a bottle for Linuxbrew
 class Cegma < Formula
   desc "Core eukaryotic genes mapping approach"
   homepage "http://korflab.ucdavis.edu/datasets/cegma/"
