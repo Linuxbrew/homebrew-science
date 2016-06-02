@@ -1,3 +1,4 @@
+# aragorn: Build a bottle for Linuxbrew
 class Aragorn < Formula
   desc "tRNA and tmRNA detection"
   homepage "http://mbio-serv2.mbioekol.lu.se/ARAGORN/"
