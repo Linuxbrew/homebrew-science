@@ -1,3 +1,4 @@
+# seqtk: Build a bottle for Linuxbrew
 class Seqtk < Formula
   desc "Toolkit for processing sequences in FASTA/Q formats"
   homepage "https://github.com/lh3/seqtk"
