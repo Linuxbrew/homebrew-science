@@ -1,3 +1,4 @@
+# canu: Build a bottle for Linuxbrew
 class Canu < Formula
   desc "Single molecule sequence assembler"
   homepage "http://canu.readthedocs.org/en/latest/"
