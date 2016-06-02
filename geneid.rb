@@ -1,3 +1,4 @@
+# geneid: Build a bottle for Linuxbrew
 class Geneid < Formula
   desc "Predict genes in anonymous genomic sequences"
   homepage "http://genome.crg.es/software/geneid/"
