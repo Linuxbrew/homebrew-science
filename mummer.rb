@@ -1,3 +1,4 @@
+# mummer: Build a bottle for Linuxbrew
 class Mummer < Formula
   homepage "http://mummer.sourceforge.net/"
   # doi "10.1186/gb-2004-5-2-r12"
