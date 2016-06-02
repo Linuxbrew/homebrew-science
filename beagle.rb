@@ -1,3 +1,4 @@
+# beagle: Build a bottle for Linuxbrew
 class CudaRequirement < Requirement
   build true
   fatal true
