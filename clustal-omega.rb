@@ -1,3 +1,4 @@
+# clustal-omega: Build a bottle for Linuxbrew
 class ClustalOmega < Formula
   homepage "http://www.clustal.org/omega/"
   # doi "10.1038/msb.2011.75"
