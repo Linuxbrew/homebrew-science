@@ -1,3 +1,4 @@
+# metaphlan: Build a bottle for Linuxbrew
 class Metaphlan < Formula
   desc "MetaPhlAn: Metagenomic Phylogenetic Analysis"
   homepage "http://huttenhower.sph.harvard.edu/metaphlan"
