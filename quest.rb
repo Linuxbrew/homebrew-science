@@ -1,3 +1,4 @@
+# quest: Build a bottle for Linuxbrew
 class Quest < Formula
   homepage "http://www-hsc.usc.edu/~valouev/QuEST/QuEST.html"
   # doi "10.1038/nmeth.1246"
