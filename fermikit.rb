@@ -1,3 +1,4 @@
+# fermikit: Build a bottle for Linuxbrew
 class Fermikit < Formula
   desc "Assembly-based variant calling for Illumina reads"
   homepage "https://github.com/lh3/fermikit"
