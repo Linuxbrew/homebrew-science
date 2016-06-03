@@ -1,3 +1,4 @@
+# trinity: Build a bottle for Linuxbrew
 class Trinity < Formula
   desc "RNA-Seq de novo assembler"
   homepage "https://trinityrnaseq.github.io"
