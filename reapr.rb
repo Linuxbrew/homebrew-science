@@ -1,3 +1,4 @@
+# reapr: Build a bottle for Linuxbrew
 class Reapr < Formula
   desc "Evaluates accuracy of a genome assembly using mapped paired end reads"
   homepage "http://www.sanger.ac.uk/science/tools/reapr"
