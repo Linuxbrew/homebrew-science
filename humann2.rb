@@ -1,3 +1,4 @@
+# humann2: Build a bottle for Linuxbrew
 class Humann2 < Formula
   desc "HUMAnN2: The HMP Unified Metabolic Analysis Network"
   homepage "https://huttenhower.sph.harvard.edu/humann"
