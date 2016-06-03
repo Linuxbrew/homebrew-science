@@ -1,3 +1,4 @@
+# velvetoptimiser: Build a bottle for Linuxbrew
 class Velvetoptimiser < Formula
   homepage "http://bioinformatics.net.au/software.velvetoptimiser.shtml"
   url "http://www.vicbioinformatics.com/VelvetOptimiser-2.2.5.tar.gz"
