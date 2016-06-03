@@ -1,3 +1,4 @@
+# paml: Build a bottle for Linuxbrew
 class Paml < Formula
   desc "phylogenetic analysis by maximum likelihood"
   homepage "http://abacus.gene.ucl.ac.uk/software/paml.html"
