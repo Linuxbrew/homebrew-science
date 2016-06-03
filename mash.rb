@@ -1,3 +1,4 @@
+# mash: Build a bottle for Linuxbrew
 class Mash < Formula
   desc "Fast genome distance estimation using MinHash"
   homepage "https://github.com/marbl/Mash"
