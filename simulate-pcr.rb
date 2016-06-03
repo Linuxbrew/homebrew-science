@@ -1,3 +1,4 @@
+# simulate-pcr: Build a bottle for Linuxbrew
 class SimulatePcr < Formula
   desc "Predicts amplicon products from single or multiplex primers"
   homepage "https://sourceforge.net/projects/simulatepcr/"
