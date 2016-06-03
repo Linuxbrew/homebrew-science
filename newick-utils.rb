@@ -1,3 +1,4 @@
+# newick-utils: Build a bottle for Linuxbrew
 class NewickUtils < Formula
   homepage "http://cegg.unige.ch/newick_utils"
   # doi "10.1093/bioinformatics/btq243"
