@@ -1,3 +1,4 @@
+# igvtools: Build a bottle for Linuxbrew
 class Igvtools < Formula
   homepage "http://www.broadinstitute.org/software/igv/download"
   # tag "bioinformatics"
