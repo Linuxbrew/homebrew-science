@@ -1,3 +1,4 @@
+# recon: Build a bottle for Linuxbrew
 class Recon < Formula
   homepage "http://www.repeatmasker.org/RepeatModeler.html"
   # doi "10.1101/gr.88502"
