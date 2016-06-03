@@ -1,3 +1,4 @@
+# bedtools: Build a bottle for Linuxbrew
 class Bedtools < Formula
   homepage "https://github.com/arq5x/bedtools2"
   desc "bedtools: A powerful toolset for genome arithmetic"
