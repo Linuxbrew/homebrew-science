@@ -1,3 +1,4 @@
+# garli: Build a bottle for Linuxbrew
 class Garli < Formula
   homepage "https://code.google.com/p/garli/"
   # tag "bioinformatics"
