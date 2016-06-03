@@ -1,3 +1,4 @@
+# varscan: Build a bottle for Linuxbrew
 class Varscan < Formula
   homepage "http://varscan.sourceforge.net/"
   # tag "bioinformatics"
