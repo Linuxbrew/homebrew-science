@@ -1,3 +1,4 @@
+# multi-worm-tracker: Build a bottle for Linuxbrew
 class MultiWormTracker < Formula
   desc "Multi-Worm Tracker: analyzes moving objects"
   homepage "http://sourceforge.net/projects/mwt/"
