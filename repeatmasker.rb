@@ -1,3 +1,4 @@
+# repeatmasker: Build a bottle for Linuxbrew
 class Repeatmasker < Formula
   homepage "http://www.repeatmasker.org/"
   # tag "bioinformatics"
