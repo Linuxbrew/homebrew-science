@@ -1,3 +1,4 @@
+# vsearch: Build a bottle for Linuxbrew
 class Vsearch < Formula
   desc "USEARCH-compatible metagenomic sequence tool"
   homepage "https://github.com/torognes/vsearch"
