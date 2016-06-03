@@ -1,3 +1,4 @@
+# weblogo: Build a bottle for Linuxbrew
 class Weblogo < Formula
   homepage "http://weblogo.berkeley.edu/"
   # doi "10.1101/gr.849004"
