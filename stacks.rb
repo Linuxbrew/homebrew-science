@@ -1,3 +1,4 @@
+# stacks: Build a bottle for Linuxbrew
 class Stacks < Formula
   desc "Pipeline for building loci from short-read sequences"
   homepage "http://creskolab.uoregon.edu/stacks/"
