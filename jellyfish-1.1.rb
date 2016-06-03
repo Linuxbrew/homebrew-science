@@ -1,3 +1,4 @@
+# jellyfish-1.1: Build a bottle for Linuxbrew
 class Jellyfish11 < Formula
   homepage "http://www.cbcb.umd.edu/software/jellyfish/"
   # doi "10.1093/bioinformatics/btr011"
