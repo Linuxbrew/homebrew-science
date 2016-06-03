@@ -1,3 +1,4 @@
+# quake: Build a bottle for Linuxbrew
 class Quake < Formula
   homepage "http://www.cbcb.umd.edu/software/quake/"
   # doi "10.1186/gb-2010-11-11-r116"
