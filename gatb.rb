@@ -1,3 +1,4 @@
+# gatb: Build a bottle for Linuxbrew
 class Gatb < Formula
   homepage "https://gatb.inria.fr/"
   # doi "10.1093/bioinformatics/btu406"
