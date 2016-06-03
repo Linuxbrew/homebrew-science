@@ -1,3 +1,4 @@
+# r8s: Build a bottle for Linuxbrew
 class R8s < Formula
   desc "Estimate rates and divergence times on phylogenetic trees"
   homepage "http://loco.biosci.arizona.edu/r8s/"
