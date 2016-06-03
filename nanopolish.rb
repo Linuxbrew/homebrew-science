@@ -1,3 +1,4 @@
+# nanopolish: Build a bottle for Linuxbrew
 class Nanopolish < Formula
   desc "Signal-level algorithms for MinION data"
   homepage "https://github.com/jts/nanopolish"
