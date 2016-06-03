@@ -1,3 +1,4 @@
+# ucsc-genome-browser: Build a bottle for Linuxbrew
 class UcscGenomeBrowser < Formula
   desc "A mirror of the UCSC Genome Browser"
   homepage "http://genome.ucsc.edu"
