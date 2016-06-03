@@ -1,3 +1,4 @@
+# populations: Build a bottle for Linuxbrew
 class Populations < Formula
   homepage "http://bioinformatics.org/~tryphon/populations/"
   # tag "bioinformatics"
