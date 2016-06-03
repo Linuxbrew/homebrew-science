@@ -1,3 +1,4 @@
+# ropebwt2: Build a bottle for Linuxbrew
 class Ropebwt2 < Formula
   desc "Incremental construction of FM-index for DNA sequences"
   homepage "https://github.com/lh3/ropebwt2"
