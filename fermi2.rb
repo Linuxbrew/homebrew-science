@@ -1,3 +1,4 @@
+# fermi2: Build a bottle for Linuxbrew
 class Fermi2 < Formula
   homepage "https://github.com/lh3/fermi2"
   # tag "bioinformatics"
