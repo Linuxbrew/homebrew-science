@@ -1,3 +1,4 @@
+# fastqc: Build a bottle for Linuxbrew
 class Fastqc < Formula
   homepage "http://www.bioinformatics.babraham.ac.uk/projects/fastqc/"
   # tag "bioinformatics"
