@@ -1,3 +1,4 @@
+# libsequence: Build a bottle for Linuxbrew
 class Libsequence < Formula
   homepage "https://molpopgen.github.io/libsequence/"
   # tag "bioinformatics"
