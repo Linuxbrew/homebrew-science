@@ -1,3 +1,4 @@
+# dsk: Build a bottle for Linuxbrew
 class Dsk < Formula
   desc "Low memory k-mer counting software"
   homepage "http://minia.genouest.org/dsk/"
