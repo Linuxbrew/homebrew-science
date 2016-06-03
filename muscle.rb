@@ -1,3 +1,4 @@
+# muscle: Build a bottle for Linuxbrew
 class Muscle < Formula
   desc "Multiple sequence alignment program"
   homepage "http://www.drive5.com/muscle/"
