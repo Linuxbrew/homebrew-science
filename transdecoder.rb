@@ -1,3 +1,4 @@
+# transdecoder: Build a bottle for Linuxbrew
 class Transdecoder < Formula
   homepage "https://transdecoder.github.io/"
   # tag "bioinformatics"
