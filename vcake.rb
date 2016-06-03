@@ -1,3 +1,4 @@
+# vcake: Build a bottle for Linuxbrew
 class Vcake < Formula
   homepage "http://vcake.sourceforge.net/"
   # tag "bioinformatics"
