@@ -1,3 +1,4 @@
+# rmblast: Build a bottle for Linuxbrew
 class Rmblast < Formula
   desc "RepeatMasker compatible version of the standard NCBI BLAST suite"
   homepage "http://www.repeatmasker.org/RMBlast.html"
