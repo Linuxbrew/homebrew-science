@@ -1,3 +1,4 @@
+# flash: Build a bottle for Linuxbrew
 class Flash < Formula
   desc "Merge mates from overlapping fragments"
   homepage "http://ccb.jhu.edu/software/FLASH/"
