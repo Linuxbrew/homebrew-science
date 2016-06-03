@@ -1,3 +1,4 @@
+# repeatmodeler: Build a bottle for Linuxbrew
 class Repeatmodeler < Formula
   desc "De-novo repeat family identification and modeling package"
   homepage "http://www.repeatmasker.org/RepeatModeler.html"
