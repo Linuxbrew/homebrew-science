@@ -1,3 +1,4 @@
+# scarpa: Build a bottle for Linuxbrew
 class Scarpa < Formula
   homepage "http://compbio.cs.toronto.edu/hapsembler/scarpa.html"
   # doi "10.1093/bioinformatics/bts716"
