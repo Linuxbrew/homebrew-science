@@ -1,3 +1,4 @@
+# vague: Build a bottle for Linuxbrew
 class Vague < Formula
   homepage "http://www.vicbioinformatics.com/software.vague.shtml"
   # head "https://github.com/Victorian-Bioinformatics-Consortium/vague.git"
