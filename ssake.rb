@@ -1,3 +1,4 @@
+# ssake: Build a bottle for Linuxbrew
 class Ssake < Formula
   homepage "http://www.bcgsc.ca/platform/bioinfo/software/ssake"
   # doi "10.1093/bioinformatics/btl629"
