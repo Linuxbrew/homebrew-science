@@ -1,3 +1,4 @@
+# atram: Build a bottle for Linuxbrew
 class Atram < Formula
   desc "Automated target restricted assembly method"
   homepage "https://github.com/juliema/aTRAM"
