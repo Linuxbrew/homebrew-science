@@ -1,3 +1,4 @@
+# cytoscape: Build a bottle for Linuxbrew
 class Cytoscape < Formula
   desc "Network Data Integration, Analysis, and Visualization in a Box"
   homepage "http://www.cytoscape.org/"
