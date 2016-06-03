@@ -1,3 +1,4 @@
+# minced: Build a bottle for Linuxbrew
 class Minced < Formula
   desc "Mining CRISPRs in Environmental Datasets"
   homepage "https://github.com/ctSkennerton/minced"
