@@ -1,3 +1,4 @@
+# ogdraw: Build a bottle for Linuxbrew
 class Ogdraw < Formula
   desc "OrganellarGenomeDRAW: convert GenBank files to graphical maps"
   homepage "http://ogdraw.mpimp-golm.mpg.de/"
