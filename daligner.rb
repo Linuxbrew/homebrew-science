@@ -1,3 +1,4 @@
+# daligner: Build a bottle for Linuxbrew
 class Daligner < Formula
   desc "DALIGNER: Find all significant local alignments between reads"
   homepage "https://github.com/thegenemyers/DALIGNER"
