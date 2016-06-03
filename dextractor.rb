@@ -1,3 +1,4 @@
+# dextractor: Build a bottle for Linuxbrew
 class Dextractor < Formula
   desc "DEXTRACTOR: Bax File Decoder and Data Compressor"
   homepage "https://github.com/thegenemyers/DEXTRACTOR"
