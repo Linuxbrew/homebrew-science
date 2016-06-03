@@ -1,3 +1,4 @@
+# freec: Build a bottle for Linuxbrew
 class Freec < Formula
   homepage "http://bioinfo.curie.fr/projects/freec/"
   # tag "bioinformatics"
