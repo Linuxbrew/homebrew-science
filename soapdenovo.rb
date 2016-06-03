@@ -1,3 +1,4 @@
+# soapdenovo: Build a bottle for Linuxbrew
 class Soapdenovo < Formula
   homepage "http://soap.genomics.org.cn/soapdenovo.html"
   # doi "10.1186/2047-217X-1-18"
