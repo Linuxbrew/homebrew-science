@@ -1,3 +1,4 @@
+# lumpy-sv: Build a bottle for Linuxbrew
 class LumpySv < Formula
   homepage "https://github.com/arq5x/lumpy-sv"
   url "https://github.com/arq5x/lumpy-sv/archive/0.2.11.tar.gz"
