@@ -1,3 +1,4 @@
+# raxml: Build a bottle for Linuxbrew
 class Raxml < Formula
   desc "maximum likelihood analysis of large phylogenies"
   homepage "http://sco.h-its.org/exelixis/web/software/raxml/index.html"
