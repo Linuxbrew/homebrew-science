@@ -1,3 +1,4 @@
+# plink: Build a bottle for Linuxbrew
 class Plink < Formula
   homepage "http://pngu.mgh.harvard.edu/~purcell/plink/"
   url "http://pngu.mgh.harvard.edu/~purcell/plink/dist/plink-1.07-src.zip"
