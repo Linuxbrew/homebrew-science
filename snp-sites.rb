@@ -1,3 +1,4 @@
+# snp-sites: Build a bottle for Linuxbrew
 class SnpSites < Formula
   desc "Find SNP sites in a multi FASTA alignment file"
   homepage "https://github.com/sanger-pathogens/snp-sites"
