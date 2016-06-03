@@ -1,3 +1,4 @@
+# readsim: Build a bottle for Linuxbrew
 class Readsim < Formula
   homepage "https://sourceforge.net/p/readsim/wiki/Home/"
   # tag "bioinformatics"
