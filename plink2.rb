@@ -1,3 +1,4 @@
+# plink2: Build a bottle for Linuxbrew
 class Plink2 < Formula
   url "https://github.com/chrchang/plink-ng/archive/v1.90b3.tar.gz"
   version "1.90b3"
