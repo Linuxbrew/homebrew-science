@@ -1,3 +1,4 @@
+# vcflib: Build a bottle for Linuxbrew
 class Vcflib < Formula
   desc "Command-line tools for manipulating VCF files"
   homepage "https://github.com/ekg/vcflib"
