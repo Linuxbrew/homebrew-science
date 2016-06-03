@@ -1,3 +1,4 @@
+# parsnp: Build a bottle for Linuxbrew
 class Parsnp < Formula
   homepage "https://github.com/marbl/parsnp"
   # tag "bioinformatics"
