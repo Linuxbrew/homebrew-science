@@ -1,3 +1,4 @@
+# mafft: Build a bottle for Linuxbrew
 class Mafft < Formula
   homepage "http://mafft.cbrc.jp/alignment/software/index.html"
   # doi "10.1093/nar/gkf436"
