@@ -1,3 +1,4 @@
+# hmmer2: Build a bottle for Linuxbrew
 class Hmmer2 < Formula
   desc "Profiles protein sequences with hidden Markov models of a sequence family's consensus"
   homepage "http://hmmer.janelia.org/"
