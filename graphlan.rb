@@ -1,3 +1,4 @@
+# graphlan: Build a bottle for Linuxbrew
 class Graphlan < Formula
   desc "Render circular taxonomic and phylogenetic trees"
   homepage "https://bitbucket.org/nsegata/graphlan/wiki/Home"
