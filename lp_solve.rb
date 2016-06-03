@@ -1,3 +1,4 @@
+# lp_solve: Build a bottle for Linuxbrew
 class NumpyHasHeaders < Requirement
   def numpy_include_dir
     "#{`python -c "import numpy.distutils.misc_util as u; print(u.get_numpy_include_dirs())[0]"`.strip}"
