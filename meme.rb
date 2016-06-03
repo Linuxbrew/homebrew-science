@@ -1,3 +1,4 @@
+# meme: Build a bottle for Linuxbrew
 class Meme < Formula
   desc "Tools for motif discovery"
   homepage "http://meme-suite.org"
