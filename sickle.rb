@@ -1,3 +1,4 @@
+# sickle: Build a bottle for Linuxbrew
 class Sickle < Formula
   homepage "https://github.com/najoshi/sickle"
   # tag "bioinformatics
