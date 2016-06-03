@@ -1,3 +1,4 @@
+# hisat2: Build a bottle for Linuxbrew
 class Hisat2 < Formula
   desc "graph-based alignment to a population of genomes"
   homepage "http://ccb.jhu.edu/software/hisat2/"
