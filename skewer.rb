@@ -1,3 +1,4 @@
+# skewer: Build a bottle for Linuxbrew
 class Skewer < Formula
   desc "Fast and accurate NGS adapter trimmer"
   homepage "http://sourceforge.net/projects/skewer/"
