@@ -1,3 +1,4 @@
+# velvet: Build a bottle for Linuxbrew
 class Velvet < Formula
   homepage "http://www.ebi.ac.uk/~zerbino/velvet/"
   url "http://www.ebi.ac.uk/~zerbino/velvet/velvet_1.2.10.tgz"
