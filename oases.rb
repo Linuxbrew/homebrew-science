@@ -1,3 +1,4 @@
+# oases: Build a bottle for Linuxbrew
 
 class Oases < Formula
   homepage "http://www.ebi.ac.uk/~zerbino/oases/"
