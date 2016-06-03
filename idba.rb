@@ -1,3 +1,4 @@
+# idba: Build a bottle for Linuxbrew
 class Idba < Formula
   homepage "http://i.cs.hku.hk/~alse/hkubrg/projects/idba/"
   # doi "10.1093/bioinformatics/bts174"
