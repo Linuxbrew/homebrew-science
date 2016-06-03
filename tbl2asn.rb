@@ -1,3 +1,4 @@
+# tbl2asn: Build a bottle for Linuxbrew
 class Tbl2asn < Formula
   homepage "https://www.ncbi.nlm.nih.gov/genbank/tbl2asn2/"
   # tag "bioinformatics"
