@@ -1,3 +1,4 @@
+# rampart: Build a bottle for Linuxbrew
 class Rampart < Formula
   homepage "https://github.com/TGAC/RAMPART"
   # tag "bioinformatics"
