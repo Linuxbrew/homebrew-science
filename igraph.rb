@@ -1,3 +1,4 @@
+# igraph: Build a bottle for Linuxbrew
 class Igraph < Formula
   desc "Network analysis package"
   homepage "http://igraph.org"
