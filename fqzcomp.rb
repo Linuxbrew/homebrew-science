@@ -1,3 +1,4 @@
+# fqzcomp: Build a bottle for Linuxbrew
 class Fqzcomp < Formula
   homepage "https://sourceforge.net/projects/fqzcomp/"
   # doi '10.1371/journal.pone.0059190'
