@@ -1,3 +1,4 @@
+# kat: Build a bottle for Linuxbrew
 class Kat < Formula
   desc "K-mer Analysis Toolkit (KAT) analyses k-mer spectra"
   homepage "https://github.com/TGAC/KAT"
