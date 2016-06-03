@@ -1,3 +1,4 @@
+# pbsuite: Build a bottle for Linuxbrew
 class Pbsuite < Formula
   homepage "http://sourceforge.net/projects/pb-jelly/"
   # doi "10.1371/journal.pone.0047768" => "PBJelly", "10.1186/1471-2105-15-180" => "PBHoney"
