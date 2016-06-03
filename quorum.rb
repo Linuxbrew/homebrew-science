@@ -1,3 +1,4 @@
+# quorum: Build a bottle for Linuxbrew
 class Quorum < Formula
   homepage "http://www.genome.umd.edu/quorum.html"
   # doi "arXiv:1307.3515"
