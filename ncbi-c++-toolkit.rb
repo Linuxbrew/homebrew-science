@@ -1,3 +1,4 @@
+# ncbi-c++-toolkit: Build a bottle for Linuxbrew
 class NcbiCxxToolkit < Formula
   homepage "http://www.ncbi.nlm.nih.gov/toolkit/"
   # tag "bioinformatics"
