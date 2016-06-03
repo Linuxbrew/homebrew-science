@@ -1,3 +1,4 @@
+# harvest-tools: Build a bottle for Linuxbrew
 class HarvestTools < Formula
   homepage "https://github.com/marbl/harvest-tools"
   # doi "10.1186/s13059-014-0524-x"
