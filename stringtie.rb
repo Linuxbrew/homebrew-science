@@ -1,3 +1,4 @@
+# stringtie: Build a bottle for Linuxbrew
 class Stringtie < Formula
   homepage "http://ccb.jhu.edu/software/stringtie"
   head "https://github.com/gpertea/stringtie"
