@@ -1,3 +1,4 @@
+# psmc: Build a bottle for Linuxbrew
 class Psmc < Formula
   desc "Pairwise Sequentially Markovian Coalescent (PSMC) model"
   homepage "https://github.com/lh3/psmc"
