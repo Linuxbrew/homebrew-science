@@ -1,3 +1,4 @@
+# uproc: Build a bottle for Linuxbrew
 class Uproc < Formula
   homepage "http://uproc.gobics.de/"
   head "https://github.com/gobics/uproc.git"
