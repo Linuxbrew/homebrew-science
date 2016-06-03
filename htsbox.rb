@@ -1,3 +1,4 @@
+# htsbox: Build a bottle for Linuxbrew
 class Htsbox < Formula
   desc "Experimental tools on top of htslib"
   homepage "https://github.com/lh3/htsbox"
