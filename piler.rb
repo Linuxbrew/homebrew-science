@@ -1,3 +1,4 @@
+# piler: Build a bottle for Linuxbrew
 class Piler < Formula
   desc "Analyze repetitive DNA found in genome sequences"
   homepage "http://drive5.com/piler/"
