@@ -1,3 +1,4 @@
+# pathvisio: Build a bottle for Linuxbrew
 class Pathvisio < Formula
   desc "Extendable Pathway Analysis Toolbox"
   homepage "http://www.pathvisio.org/"
