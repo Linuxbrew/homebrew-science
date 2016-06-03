@@ -1,3 +1,4 @@
+# edirect: Build a bottle for Linuxbrew
 class Edirect < Formula
   homepage "http://www.ncbi.nlm.nih.gov/books/NBK179288/"
   # tag "bioinformatics"
