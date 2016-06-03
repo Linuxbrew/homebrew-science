@@ -1,3 +1,4 @@
+# viennarna: Build a bottle for Linuxbrew
 class Viennarna < Formula
   homepage "http://www.tbi.univie.ac.at/~ronny/RNA/"
   # tag "bioinformatics"
