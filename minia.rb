@@ -1,3 +1,4 @@
+# minia: Build a bottle for Linuxbrew
 class Minia < Formula
   desc "Short-read assembler of a Bloom filter de Bruijn graph"
   homepage "http://minia.genouest.org/"
