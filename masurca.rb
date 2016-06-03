@@ -1,3 +1,4 @@
+# masurca: Build a bottle for Linuxbrew
 class Masurca < Formula
   desc "MaSuRCA: Maryland Super-Read Celera Assembler"
   homepage "http://www.genome.umd.edu/masurca.html"
