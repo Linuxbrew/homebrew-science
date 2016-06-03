@@ -1,3 +1,4 @@
+# diamond: Build a bottle for Linuxbrew
 class Diamond < Formula
   desc "Accelerated BLAST compatible local sequence aligner"
   homepage "http://ab.inf.uni-tuebingen.de/software/diamond/"
