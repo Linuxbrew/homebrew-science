@@ -1,3 +1,4 @@
+# sambamba: Build a bottle for Linuxbrew
 class Sambamba < Formula
   desc "Tools for working with SAM/BAM data"
   homepage "https://lomereiter.github.io/sambamba"
