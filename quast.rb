@@ -1,3 +1,4 @@
+# quast: Build a bottle for Linuxbrew
 class Quast < Formula
   desc "QUAST: Quality Assessment Tool for Genome Assemblies"
   homepage "http://bioinf.spbau.ru/en/quast"
