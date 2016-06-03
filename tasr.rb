@@ -1,3 +1,4 @@
+# tasr: Build a bottle for Linuxbrew
 class Tasr < Formula
   desc "Targeted assembler of short sequence reads"
   homepage "http://www.bcgsc.ca/platform/bioinfo/software/tasr"
