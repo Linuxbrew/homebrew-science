@@ -1,3 +1,4 @@
+# rnammer: Build a bottle for Linuxbrew
 class Rnammer < Formula
   desc "Predicts 5s/8s, 16s/18s, and 23s/28s ribosomal RNA in full genome sequences"
   homepage "http://www.cbs.dtu.dk/services/RNAmmer/"
