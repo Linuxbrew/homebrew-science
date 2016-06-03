@@ -1,3 +1,4 @@
+# links-scaffolder: Build a bottle for Linuxbrew
 class LinksScaffolder < Formula
   homepage "http://www.bcgsc.ca/platform/bioinfo/software/links"
   # doi "10.1186/s13742-015-0076-3"
