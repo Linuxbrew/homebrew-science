@@ -1,3 +1,4 @@
+# pear: Build a bottle for Linuxbrew
 class Pear < Formula
   homepage "http://www.exelixis-lab.org/pear"
   # doi "10.1093/bioinformatics/btt593"
