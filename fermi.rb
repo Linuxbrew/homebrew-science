@@ -1,3 +1,4 @@
+# fermi: Build a bottle for Linuxbrew
 class Fermi < Formula
   homepage "https://github.com/lh3/fermi"
   # doi "10.1093/bioinformatics/bts280"
