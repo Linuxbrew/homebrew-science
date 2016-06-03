@@ -1,3 +1,4 @@
+# miniasm: Build a bottle for Linuxbrew
 class Miniasm < Formula
   desc "Ultrafast de novo assembly for long noisy reads"
   homepage "https://github.com/lh3/miniasm"
