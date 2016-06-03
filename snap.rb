@@ -1,3 +1,4 @@
+# snap: Build a bottle for Linuxbrew
 class Snap < Formula
   desc "Gene prediction tool"
   homepage "http://korflab.ucdavis.edu/software.html"
