@@ -1,3 +1,4 @@
+# maq: Build a bottle for Linuxbrew
 class Maq < Formula
   homepage "http://maq.sourceforge.net/"
   # tag "bioinformatics"
