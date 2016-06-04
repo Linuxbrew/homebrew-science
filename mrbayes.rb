@@ -1,3 +1,4 @@
+# mrbayes: Build a bottle for Linuxbrew
 class Mrbayes < Formula
   homepage "http://mrbayes.sourceforge.net/"
   # tag "bioinformatics"
