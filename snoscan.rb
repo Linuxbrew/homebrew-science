@@ -1,3 +1,4 @@
+# snoscan: Build a bottle for Linuxbrew
 class Snoscan < Formula
   desc "Search for C/D box methylation guide snoRNA genes in a genomic sequence"
   homepage "http://lowelab.ucsc.edu/snoscan/"
