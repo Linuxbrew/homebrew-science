@@ -1,3 +1,4 @@
+# nextflow: Build a bottle for Linuxbrew
 class Nextflow < Formula
   desc "Data-driven computational pipelines"
   homepage "http://www.nextflow.io/"
