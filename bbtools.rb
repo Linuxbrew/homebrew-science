@@ -1,3 +1,4 @@
+# bbtools: Build a bottle for Linuxbrew
 class Bbtools < Formula
   desc "suite of Brian Bushnell's tools for manipulating reads"
   homepage "http://bbmap.sourceforge.net/"
