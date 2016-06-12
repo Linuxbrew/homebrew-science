@@ -1,3 +1,4 @@
+# snpeff: Build a bottle for Linuxbrew
 class Snpeff < Formula
   desc "Genetic variant annotation and effect prediction toolbox"
   homepage "http://snpeff.sourceforge.net/"
