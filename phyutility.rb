@@ -1,3 +1,4 @@
+# phyutility: Build a bottle for Linuxbrew
 class Phyutility < Formula
   desc "analyze and modify trees and data matrices"
   homepage "http://blackrim.org/programs/phyutility/"
