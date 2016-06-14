@@ -1,3 +1,4 @@
+# mapsembler2: Build a bottle for Linuxbrew
 class Mapsembler2 < Formula
   desc "targeted assembly software"
   homepage "https://colibread.inria.fr/software/mapsembler2/"
