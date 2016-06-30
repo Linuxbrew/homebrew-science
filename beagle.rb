@@ -1,3 +1,4 @@
+# beagle: Build a bottle for Linuxbrew
 require File.expand_path("../Requirements/cuda_requirement", __FILE__)
 
 class Beagle < Formula
