@@ -1,3 +1,4 @@
+# barrnap: Build a bottle for Linuxbrew
 class Barrnap < Formula
   desc "BAsic Rapid Ribosomal RNA Predictor"
   homepage "https://github.com/tseemann/barrnap"
