@@ -1,3 +1,4 @@
+# circlator: Build a bottle for Linuxbrew
 class Circlator < Formula
   desc "Tool to circularize genome assemblies"
   homepage "https://github.com/sanger-pathogens/circlator"
