@@ -1,3 +1,4 @@
+# gubbins: Build a bottle for Linuxbrew
 class Gubbins < Formula
   desc "Detect recombinations in Bacteria"
   homepage "https://github.com/sanger-pathogens/gubbins"
