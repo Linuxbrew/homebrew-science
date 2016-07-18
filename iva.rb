@@ -1,3 +1,4 @@
+# iva: Build a bottle for Linuxbrew
 class Iva < Formula
   desc "Iterative Virus Assembler"
   homepage "https://github.com/sanger-pathogens/iva"
