@@ -1,3 +1,4 @@
+# lobstr: Build a bottle for Linuxbrew
 class Lobstr < Formula
   desc "Profiles Short Tandem Repeats (STRs) from sequencing data"
   homepage "http://lobstr.teamerlich.org"
