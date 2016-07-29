@@ -9,7 +9,7 @@ class Express < Formula
   # doi "10.1038/nmeth.2251"
   # tag "bioinformatics"
 
-  bottle :disable, "Work around 'Illegal instruction: 4' during CI"
+  bottle :disable, "Work around 'Illegal instruction: 4' during CI" if OS.mac?
 
   depends_on "bamtools"
   depends_on "boost"
@@ -19,6 +19,10 @@ class Express < Formula
 
   def install
     inreplace "CMakeLists.txt", "set(Boost_USE_STATIC_LIBS ON)", ""
+
+    # Fix undefined reference to `deflate'
+    inreplace "src/CMakeLists.txt", 'libbamtools.a"', 'libbamtools.a" "-lz"'
+
     mkdir "bamtools"
     ln_s Formula["bamtools"].include/"bamtools", "bamtools/include"
     ln_s Formula["bamtools"].lib, "bamtools/"
@@ -30,3 +34,4 @@ class Express < Formula
     assert_match version.to_s, shell_output("#{bin}/express 2>&1", 1)
   end
 end
+
