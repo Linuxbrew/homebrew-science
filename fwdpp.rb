@@ -1,3 +1,4 @@
+# fwdpp: Build a bottle for Linuxbrew
 class Fwdpp < Formula
   desc "C++ template library for forward-time population genetic simulations"
   homepage "https://molpopgen.github.io/fwdpp/"
