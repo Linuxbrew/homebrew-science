@@ -1,3 +1,4 @@
+# salmon: Build a bottle for Linuxbrew
 class Salmon < Formula
   desc "Transcript-level quantification from RNA-seq reads"
   homepage "https://github.com/COMBINE-lab/salmon"
