@@ -1,3 +1,4 @@
+# nxtrim: Build a bottle for Linuxbrew
 class Nxtrim < Formula
   desc "Trim adapters for Illumina Nextera Mate Pair libraries"
   homepage "https://github.com/sequencing/NxTrim"
