@@ -1,3 +1,4 @@
+# poretools: Build a bottle for Linuxbrew
 class Poretools < Formula
   desc "Tools for working with nanopore sequencing data"
   homepage "http://poretools.readthedocs.org/"
