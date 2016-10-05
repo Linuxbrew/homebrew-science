@@ -1,3 +1,4 @@
+# samblaster: Build a bottle for Linuxbrew
 class Samblaster < Formula
   desc "Tool to mark duplicates in SAM files"
   homepage "https://github.com/GregoryFaust/samblaster"
