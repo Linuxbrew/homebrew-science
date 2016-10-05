@@ -1,3 +1,4 @@
+# pilon: Build a bottle for Linuxbrew
 class Pilon < Formula
   desc "Improve draft assemblies and find variation"
   homepage "https://github.com/broadinstitute/pilon/wiki"
