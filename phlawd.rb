@@ -1,3 +1,4 @@
+# phlawd: Build a bottle for Linuxbrew
 class Phlawd < Formula
   desc "Phylogenetic dataset construction"
   homepage "http://www.phlawd.net/"
