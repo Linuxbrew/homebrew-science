@@ -1,3 +1,4 @@
+# velvet: Build a bottle for Linuxbrew
 class Velvet < Formula
   desc "sequence assembler for very short reads"
   homepage "http://www.ebi.ac.uk/~zerbino/velvet/"
