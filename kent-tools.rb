@@ -1,3 +1,4 @@
+# kent-tools: Build a bottle for Linuxbrew
 class KentTools < Formula
   desc "Utilities for the UCSC Genome Browser"
   homepage "http://genome.ucsc.edu/"
