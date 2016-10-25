@@ -1,3 +1,4 @@
+# analysis: Build a bottle for Linuxbrew
 class Analysis < Formula
   desc "Programs for the (pre-NGS-era) analysis of population-genetic data."
   homepage "https://github.com/molpopgen/analysis"
