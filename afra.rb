@@ -1,3 +1,4 @@
+# afra: Build a bottle for Linuxbrew
 class Afra < Formula
   desc "Alignmen-free support values"
   homepage "https://github.com/EvolBioInf/afra"
