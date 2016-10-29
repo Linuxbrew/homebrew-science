@@ -1,3 +1,4 @@
+# spaced: Build a bottle for Linuxbrew
 class Spaced < Formula
   desc "Spaced-Words for alignment-free sequence comparison"
   homepage "http://spaced.gobics.de/"
