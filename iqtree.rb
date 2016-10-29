@@ -1,3 +1,4 @@
+# iqtree: Build a bottle for Linuxbrew
 class Iqtree < Formula
   desc "Efficient phylogenomic software by maximum likelihood"
   homepage "http://www.iqtree.org/"
