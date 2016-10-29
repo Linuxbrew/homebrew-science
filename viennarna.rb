@@ -1,3 +1,4 @@
+# viennarna: Build a bottle for Linuxbrew
 class Viennarna < Formula
   desc "Prediction and comparison of RNA secondary structures"
   homepage "http://www.tbi.univie.ac.at/~ronny/RNA/"
