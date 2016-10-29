@@ -1,3 +1,4 @@
+# stringtie: Build a bottle for Linuxbrew
 class Stringtie < Formula
   desc "Transcript assembly and quantification for RNA-Seq"
   homepage "http://ccb.jhu.edu/software/stringtie"
