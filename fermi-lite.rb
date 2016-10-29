@@ -1,3 +1,4 @@
+# fermi-lite: Build a bottle for Linuxbrew
 class FermiLite < Formula
   desc "Assembling Illumina short reads in small regions"
   homepage "https://github.com/lh3/fermi-lite"
