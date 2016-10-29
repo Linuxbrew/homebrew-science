@@ -1,3 +1,4 @@
+# lsd: Build a bottle for Linuxbrew
 class Lsd < Formula
   desc "Least-Squares for estimating Dates from phylogenies"
   homepage "https://github.com/tothuhien/lsd-0.3beta"
