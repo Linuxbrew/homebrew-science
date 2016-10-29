@@ -1,3 +1,4 @@
+# rapsearch2: Build a bottle for Linuxbrew
 class Rapsearch2 < Formula
   desc "Reduced Alphabet based Protein similarity Search"
   homepage "http://rapsearch2.sourceforge.net/"
