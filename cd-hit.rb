@@ -1,3 +1,4 @@
+# cd-hit: Build a bottle for Linuxbrew
 class CdHit < Formula
   desc "Cluster and compare protein or nucleotide sequences"
   homepage "http://cd-hit.org"
