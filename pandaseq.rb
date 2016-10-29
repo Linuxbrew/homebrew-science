@@ -1,3 +1,4 @@
+# pandaseq: Build a bottle for Linuxbrew
 class Pandaseq < Formula
   desc "PAired-eND Assembler for DNA sequences"
   homepage "https://github.com/neufeld/pandaseq"
