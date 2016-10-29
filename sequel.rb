@@ -1,3 +1,4 @@
+# sequel: Build a bottle for Linuxbrew
 class Sequel < Formula
   desc "Improving the Accuracy of Genome Assemblies"
   homepage "http://bix.ucsd.edu/SEQuel/index.html"
