@@ -1,3 +1,4 @@
+# lighter: Build a bottle for Linuxbrew
 class Lighter < Formula
   desc "Fast and memory-efficient sequencing error corrector"
   homepage "https://github.com/mourisl/Lighter"
