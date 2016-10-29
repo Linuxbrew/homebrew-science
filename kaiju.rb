@@ -1,3 +1,4 @@
+# kaiju: Build a bottle for Linuxbrew
 class Kaiju < Formula
   desc "Fast taxonomic classification of metagenomic sequencing reads"
   homepage "http://kaiju.binf.ku.dk/"
