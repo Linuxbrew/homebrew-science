@@ -1,3 +1,4 @@
+# plink: Build a bottle for Linuxbrew
 class Plink < Formula
   desc "Whole genome association analysis toolset"
   homepage "http://pngu.mgh.harvard.edu/~purcell/plink/"
