@@ -1,3 +1,4 @@
+# rna-star: Build a bottle for Linuxbrew
 class RnaStar < Formula
   desc "RNA-seq aligner"
   homepage "https://github.com/alexdobin/STAR"
