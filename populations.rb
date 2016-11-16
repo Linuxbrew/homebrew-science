@@ -1,3 +1,4 @@
+# populations: Build a bottle for Linuxbrew
 class Populations < Formula
   desc "individual and population distances, and file conversions"
   homepage "http://bioinformatics.org/~tryphon/populations/"
