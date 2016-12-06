@@ -1,3 +1,4 @@
+# hlaminer: Build a bottle for Linuxbrew
 class Hlaminer < Formula
   desc "HLA predictions from next-generation shotgun (NGS) sequence read data"
   homepage "http://www.bcgsc.ca/platform/bioinfo/software/hlaminer"
