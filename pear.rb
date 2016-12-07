@@ -1,3 +1,4 @@
+# pear: Build a bottle for Linuxbrew
 class Pear < Formula
   desc "Ultrafast, memory-efficient and highly accurate pair-end read merger"
   homepage "http://www.exelixis-lab.org/pear"
