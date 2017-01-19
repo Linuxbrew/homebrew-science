@@ -1,3 +1,4 @@
+# symengine: Build a bottle for Linuxbrew
 class Symengine < Formula
   desc "Symbolic manipulation library, written in C++"
   homepage "https://github.com/symengine/symengine"
