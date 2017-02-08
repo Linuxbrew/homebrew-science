@@ -1,3 +1,4 @@
+# sspace-longread: Build a bottle for Linuxbrew
 class SspaceLongread < Formula
   homepage "http://www.baseclear.com/lab-products/bioinformatics-tools/sspace-longread/"
   # doi "10.1186/1471-2105-15-211"
