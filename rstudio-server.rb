@@ -1,3 +1,4 @@
+# rstudio-server: Build a bottle for Linuxbrew
 class RstudioServer < Formula
   desc "Integrated development environment (IDE) for R"
   homepage "http://www.rstudio.com"
