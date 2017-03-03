@@ -1,3 +1,4 @@
+# ray: Build a bottle for Linuxbrew
 class Ray < Formula
   desc "Parallel genome assemblies for parallel DNA sequencing"
   homepage "https://denovoassembler.sourceforge.io/"
