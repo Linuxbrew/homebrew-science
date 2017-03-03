@@ -1,3 +1,4 @@
+# prokka: Build a bottle for Linuxbrew
 class Prokka < Formula
   desc "Rapid annotation of prokaryotic genomes"
   homepage "http://www.vicbioinformatics.com/software.prokka.shtml"
