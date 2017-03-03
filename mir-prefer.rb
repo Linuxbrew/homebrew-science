@@ -1,3 +1,4 @@
+# mir-prefer: Build a bottle for Linuxbrew
 class MirPrefer < Formula
   homepage "https://github.com/hangelwen/miR-PREFeR"
   head "https://github.com/hangelwen/miR-PREFeR.git"
