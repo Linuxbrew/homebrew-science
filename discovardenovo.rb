@@ -1,3 +1,4 @@
+# discovardenovo: Build a bottle for Linuxbrew
 class Discovardenovo < Formula
   desc "Large genome assembler"
   homepage "http://www.broadinstitute.org/software/discovar/blog/"
