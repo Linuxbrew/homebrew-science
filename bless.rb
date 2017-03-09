@@ -1,3 +1,4 @@
+# bless: Build a bottle for Linuxbrew
 class Bless < Formula
   desc "Bloom-filter-based error correction tool for NGS reads"
   homepage "https://sourceforge.net/projects/bless-ec/"
