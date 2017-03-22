@@ -1,3 +1,4 @@
+# blat: Build a bottle for Linuxbrew
 class Blat < Formula
   desc "Genomic sequence search tool"
   homepage "http://genome.ucsc.edu/FAQ/FAQblat.html"
