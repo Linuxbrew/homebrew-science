@@ -1,3 +1,4 @@
+# freec: Build a bottle for Linuxbrew
 class Freec < Formula
   desc "Copy number and genotype annotation in whole genome/exome sequencing data"
   homepage "http://bioinfo.curie.fr/projects/freec/"
