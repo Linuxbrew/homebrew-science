@@ -1,3 +1,4 @@
+# vt: Build a bottle for Linuxbrew
 class Vt < Formula
   desc "Toolset for short variant discovery from NGS data"
   homepage "http://genome.sph.umich.edu/wiki/Vt"
