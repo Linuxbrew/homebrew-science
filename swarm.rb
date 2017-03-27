@@ -1,3 +1,4 @@
+# swarm: Build a bottle for Linuxbrew
 class Swarm < Formula
   desc "Robust and fast clustering method for amplicons"
   homepage "https://github.com/torognes/swarm"
