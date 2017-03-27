@@ -1,3 +1,4 @@
+# proteinortho: Build a bottle for Linuxbrew
 class Proteinortho < Formula
   desc "Detection of orthologs in large-scale analysis"
   homepage "http://www.bioinf.uni-leipzig.de/Software/proteinortho/"
