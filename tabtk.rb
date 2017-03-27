@@ -1,3 +1,4 @@
+# tabtk: Build a bottle for Linuxbrew
 class Tabtk < Formula
   desc "Toolkit for processing TAB-delimited format"
   homepage "https://github.com/lh3/tabtk"
