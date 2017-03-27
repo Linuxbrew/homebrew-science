@@ -1,3 +1,4 @@
+# sdsl-lite: Build a bottle for Linuxbrew
 class SdslLite < Formula
   desc "Succinct Data Structure Library 2.0"
   homepage "https://github.com/simongog/sdsl-lite"
