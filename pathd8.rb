@@ -1,3 +1,4 @@
+# pathd8: Build a bottle for Linuxbrew
 class Pathd8 < Formula
   desc "Estimates divergence times in large phylogenetic trees"
   homepage "http://www2.math.su.se/PATHd8/"
