@@ -1,3 +1,4 @@
+# fastml: Build a bottle for Linuxbrew
 class Fastml < Formula
   desc "Probabilistic reconstruction of ancestral sequences using ML"
   homepage "http://fastml.tau.ac.il/source.php"
