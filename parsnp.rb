@@ -1,3 +1,4 @@
+# parsnp: Build a bottle for Linuxbrew
 class Parsnp < Formula
   desc "Microbial core genome alignment and SNP detection"
   homepage "https://github.com/marbl/parsnp"
