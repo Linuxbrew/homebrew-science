@@ -1,3 +1,4 @@
+# fasttree: Build a bottle for Linuxbrew
 class Fasttree < Formula
   homepage "http://microbesonline.org/fasttree/"
   # doi "10.1371/journal.pone.0009490"
