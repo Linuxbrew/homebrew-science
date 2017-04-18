@@ -1,3 +1,4 @@
+# clonalframeml: Build a bottle for Linuxbrew
 class Clonalframeml < Formula
   homepage "https://code.google.com/p/clonalframeml/"
   # tag "bioinformatics"
