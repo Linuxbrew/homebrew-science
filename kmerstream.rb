@@ -1,3 +1,4 @@
+# kmerstream: Build a bottle for Linuxbrew
 class Kmerstream < Formula
   desc "Streaming algorithms for k-mer abundance estimation"
   homepage "https://github.com/pmelsted/KmerStream"
