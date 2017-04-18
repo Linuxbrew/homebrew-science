@@ -1,3 +1,4 @@
+# picard-tools: Build a bottle for Linuxbrew
 class PicardTools < Formula
   desc "Tools for manipulating HTS data and formats"
   homepage "https://broadinstitute.github.io/picard/"
