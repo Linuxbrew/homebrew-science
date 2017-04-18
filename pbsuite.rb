@@ -1,3 +1,4 @@
+# pbsuite: Build a bottle for Linuxbrew
 class Pbsuite < Formula
   desc "PBJelly and PBHoney: Software for PacBio sequencing data"
   homepage "http://sourceforge.net/projects/pb-jelly/"
