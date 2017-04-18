@@ -1,3 +1,4 @@
+# bcalm: Build a bottle for Linuxbrew
 class Bcalm < Formula
   desc "de Bruijn graph compaction in low memory"
   homepage "https://github.com/GATB/bcalm"
