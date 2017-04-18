@@ -1,3 +1,4 @@
+# mhap: Build a bottle for Linuxbrew
 class Mhap < Formula
   desc "MinHash Alignment Process"
   homepage "https://github.com/marbl/MHAP"
