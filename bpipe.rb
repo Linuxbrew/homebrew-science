@@ -1,3 +1,4 @@
+# bpipe: Build a bottle for Linuxbrew
 class Bpipe < Formula
   desc "Platform for running bioinformatics pipelines"
   homepage "https://github.com/ssadedin/bpipe"
