@@ -1,3 +1,4 @@
+# trans-abyss: Build a bottle for Linuxbrew
 class TransAbyss < Formula
   desc "Assemble RNA-Seq data using ABySS"
   homepage "http://www.bcgsc.ca/platform/bioinfo/software/trans-abyss"
