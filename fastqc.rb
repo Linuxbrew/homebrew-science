@@ -1,3 +1,4 @@
+# fastqc: Build a bottle for Linuxbrew
 class Fastqc < Formula
   desc "Quality control tool for high throughput sequence data"
   homepage "http://www.bioinformatics.babraham.ac.uk/projects/fastqc/"
