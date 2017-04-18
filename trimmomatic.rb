@@ -1,3 +1,4 @@
+# trimmomatic: Build a bottle for Linuxbrew
 class Trimmomatic < Formula
   desc "Flexible read trimming tool for Illumina data"
   homepage "http://www.usadellab.org/cms/?page=trimmomatic"
