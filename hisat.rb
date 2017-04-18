@@ -1,3 +1,4 @@
+# hisat: Build a bottle for Linuxbrew
 class Hisat < Formula
   homepage "http://ccb.jhu.edu/software/hisat/"
   # tag "bioinformatics"
