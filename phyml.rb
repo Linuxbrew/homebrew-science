@@ -1,3 +1,4 @@
+# phyml: Build a bottle for Linuxbrew
 class Phyml < Formula
   desc "Fast maximum likelihood-based phylogenetic inference"
   homepage "http://www.atgc-montpellier.fr/phyml/"
