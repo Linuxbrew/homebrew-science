@@ -1,3 +1,4 @@
+# igvtools: Build a bottle for Linuxbrew
 class Igvtools < Formula
   desc "Utilities for preprocessing data files for IGV"
   homepage "https://www.broadinstitute.org/software/igv"
