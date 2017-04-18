@@ -1,3 +1,4 @@
+# soapdenovo: Build a bottle for Linuxbrew
 class Soapdenovo < Formula
   desc "Next generation sequencing reads de novo assembler"
   homepage "http://soap.genomics.org.cn/soapdenovo.html"
