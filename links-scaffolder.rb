@@ -1,3 +1,4 @@
+# links-scaffolder: Build a bottle for Linuxbrew
 class LinksScaffolder < Formula
   desc "Long Interval Nucleotide K-mer Scaffolder"
   homepage "http://www.bcgsc.ca/platform/bioinfo/software/links"
