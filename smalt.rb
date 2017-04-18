@@ -1,3 +1,4 @@
+# smalt: Build a bottle for Linuxbrew
 class Smalt < Formula
   desc "Aligns DNA sequencing reads with a reference genome"
   homepage "http://www.sanger.ac.uk/science/tools/smalt-0"
