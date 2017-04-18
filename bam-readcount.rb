@@ -1,3 +1,4 @@
+# bam-readcount: Build a bottle for Linuxbrew
 class BamReadcount < Formula
   desc "Count DNA sequence reads at each position in BAM files"
   homepage "https://github.com/genome/bam-readcount"
