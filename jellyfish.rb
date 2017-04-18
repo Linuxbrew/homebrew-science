@@ -1,3 +1,4 @@
+# jellyfish: Build a bottle for Linuxbrew
 class Jellyfish < Formula
   desc "Fast, memory-efficient counting of DNA k-mers"
   homepage "http://www.genome.umd.edu/jellyfish.html"
