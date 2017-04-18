@@ -1,3 +1,4 @@
+# trf: Build a bottle for Linuxbrew
 class Trf < Formula
   desc "Tandem repeats finder"
   homepage "http://tandem.bu.edu/trf/trf.html"
