@@ -1,3 +1,4 @@
+# grabix: Build a bottle for Linuxbrew
 class Grabix < Formula
   desc "Tool for random access into BGZF files"
   homepage "https://github.com/arq5x/grabix"
