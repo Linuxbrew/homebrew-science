@@ -1,3 +1,4 @@
+# vcftools: Build a bottle for Linuxbrew
 class Vcftools < Formula
   desc "Tools for working with VCF files"
   homepage "https://vcftools.github.io/"
