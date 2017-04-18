@@ -1,3 +1,4 @@
+# glpk: Build a bottle for Linuxbrew
 class Glpk < Formula
   desc "Library for Linear (LP) and Mixed-Integer Programming (MIP)"
   homepage "https://www.gnu.org/software/glpk/"
