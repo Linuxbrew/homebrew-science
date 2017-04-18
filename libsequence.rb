@@ -1,3 +1,4 @@
+# libsequence: Build a bottle for Linuxbrew
 class Libsequence < Formula
   desc "C++ library for evolutionary genetics"
   homepage "https://molpopgen.github.io/libsequence/"
