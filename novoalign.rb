@@ -1,3 +1,4 @@
+# novoalign: Build a bottle for Linuxbrew
 class Novoalign < Formula
   desc "Map short reads to a reference genome"
   homepage "http://www.novocraft.com/"
