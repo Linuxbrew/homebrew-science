@@ -1,3 +1,4 @@
+# bamtools: Build a bottle for Linuxbrew
 class Bamtools < Formula
   desc "C++ API and command-line toolkit for BAM data"
   homepage "https://github.com/pezmaster31/bamtools"
