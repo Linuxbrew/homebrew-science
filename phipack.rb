@@ -1,3 +1,4 @@
+# phipack: Build a bottle for Linuxbrew
 class Phipack < Formula
   desc "A quick and robust genomic recombination test"
   homepage "http://www.maths.otago.ac.nz/~dbryant/software.html"
