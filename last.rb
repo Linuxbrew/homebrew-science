@@ -1,3 +1,4 @@
+# last: Build a bottle for Linuxbrew
 class Last < Formula
   desc "Find similar regions between sequences"
   homepage "http://last.cbrc.jp/"
