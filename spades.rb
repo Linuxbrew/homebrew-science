@@ -1,3 +1,4 @@
+# spades: Build a bottle for Linuxbrew
 class Spades < Formula
   desc "SPAdes: de novo genome assembly"
   homepage "http://bioinf.spbau.ru/spades/"
