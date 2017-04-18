@@ -1,3 +1,4 @@
+# pilercr: Build a bottle for Linuxbrew
 class Pilercr < Formula
   desc "Finding CRISPR repeats in genome sequences"
   homepage "http://drive5.com/pilercr/"
