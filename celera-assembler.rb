@@ -1,3 +1,4 @@
+# celera-assembler: Build a bottle for Linuxbrew
 class CeleraAssembler < Formula
   homepage "https://wgs-assembler.sourceforge.io/"
   # doi "myers2000whole" => "10.1126/science.287.5461.2196",
