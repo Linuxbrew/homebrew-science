@@ -1,3 +1,4 @@
+# spici: Build a bottle for Linuxbrew
 class Spici < Formula
   desc "Fast local network clustering algorithm"
   homepage "http://compbio.cs.princeton.edu/spici/"
