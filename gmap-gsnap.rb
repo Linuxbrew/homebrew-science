@@ -1,3 +1,4 @@
+# gmap-gsnap: Build a bottle for Linuxbrew
 class GmapGsnap < Formula
   desc "Genomic Mapping & Alignment Program for RNA/EST/Short-read sequences"
   homepage "http://research-pub.gene.com/gmap/"
