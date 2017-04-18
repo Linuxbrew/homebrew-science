@@ -1,3 +1,4 @@
+# nonpareil: Build a bottle for Linuxbrew
 class Nonpareil < Formula
   desc "Estimates coverage in metagenomic datasets."
   homepage "http://enve-omics.ce.gatech.edu/nonpareil"
