@@ -1,3 +1,4 @@
+# infernal: Build a bottle for Linuxbrew
 class Infernal < Formula
   desc "Search DNA databases for RNA structure and sequence similarities"
   homepage "http://eddylab.org/infernal/"
