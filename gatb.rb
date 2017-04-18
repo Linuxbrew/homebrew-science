@@ -1,3 +1,4 @@
+# gatb: Build a bottle for Linuxbrew
 class Gatb < Formula
   desc "Genome Analysis Toolbox for de Bruijn graphs"
   homepage "https://gatb.inria.fr/"
