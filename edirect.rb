@@ -1,3 +1,4 @@
+# edirect: Build a bottle for Linuxbrew
 class Edirect < Formula
   desc "Access NCBI's databases from the shell"
   homepage "http://www.ncbi.nlm.nih.gov/books/NBK179288/"
