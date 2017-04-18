@@ -1,3 +1,4 @@
+# trimal: Build a bottle for Linuxbrew
 class Trimal < Formula
   desc "Automated alignment trimming in phylogenetic analyses"
   homepage "http://trimal.cgenomics.org/"
