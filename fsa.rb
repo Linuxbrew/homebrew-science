@@ -1,3 +1,4 @@
+# fsa: Build a bottle for Linuxbrew
 class Fsa < Formula
   homepage "http://fsa.sourceforge.net/"
   # doi "10.1371/journal.pcbi.1000392"
