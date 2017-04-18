@@ -1,3 +1,4 @@
+# vague: Build a bottle for Linuxbrew
 class Vague < Formula
   desc "Velvet assembler graphical front end"
   homepage "http://www.vicbioinformatics.com/software.vague.shtml"
