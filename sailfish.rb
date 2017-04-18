@@ -1,3 +1,4 @@
+# sailfish: Build a bottle for Linuxbrew
 class Sailfish < Formula
   desc "Rapid mapping-based RNA-Seq isoform quantification"
   homepage "http://www.cs.cmu.edu/~ckingsf/software/sailfish"
