@@ -1,3 +1,4 @@
+# uproc: Build a bottle for Linuxbrew
 class Uproc < Formula
   desc "Ultra-fast protein sequence classification"
   homepage "http://uproc.gobics.de/"
