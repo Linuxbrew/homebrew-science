@@ -1,3 +1,4 @@
+# squeezambler: Build a bottle for Linuxbrew
 class Squeezambler < Formula
   homepage "http://chitsazlab.org/software/squeezambler/"
   # doi "10.1093/bioinformatics/btt420"
