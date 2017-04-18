@@ -1,3 +1,4 @@
+# transdecoder: Build a bottle for Linuxbrew
 class Transdecoder < Formula
   desc "Identifies candidate coding regions within transcript sequences"
   homepage "https://transdecoder.github.io/"
