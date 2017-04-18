@@ -1,3 +1,4 @@
+# varscan: Build a bottle for Linuxbrew
 class Varscan < Formula
   desc "Variant detection in massively parallel sequencing data"
   homepage "https://varscan.sourceforge.io/"
