@@ -1,3 +1,4 @@
+# readseq: Build a bottle for Linuxbrew
 class Readseq < Formula
   desc "Read and reformat biosequences"
   homepage "http://iubio.bio.indiana.edu/soft/molbio/readseq/java/"
