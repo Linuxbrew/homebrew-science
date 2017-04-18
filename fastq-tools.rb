@@ -1,3 +1,4 @@
+# fastq-tools: Build a bottle for Linuxbrew
 class FastqTools < Formula
   homepage "http://homes.cs.washington.edu/~dcjones/fastq-tools/"
   # tag "bioinformatics"
