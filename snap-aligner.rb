@@ -1,3 +1,4 @@
+# snap-aligner: Build a bottle for Linuxbrew
 class SnapAligner < Formula
   homepage "http://snap.cs.berkeley.edu"
   # doi "arXiv:1111.5572v1"
