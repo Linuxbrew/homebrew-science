@@ -1,3 +1,4 @@
+# glimmerhmm: Build a bottle for Linuxbrew
 class Glimmerhmm < Formula
   homepage "http://ccb.jhu.edu/software/glimmerhmm/"
   # doi "10.1093/bioinformatics/bth315"
