@@ -1,3 +1,4 @@
+# transrate-tools: Build a bottle for Linuxbrew
 class TransrateTools < Formula
   desc "Aggregate BAM read mapping information"
   homepage "https://github.com/Blahah/transrate-tools"
