@@ -1,3 +1,4 @@
+# dazz_db: Build a bottle for Linuxbrew
 class DazzDb < Formula
   desc "DAZZ_DB: The Dazzler Data Base"
   homepage "https://github.com/thegenemyers/DAZZ_DB"
