@@ -1,3 +1,4 @@
+# exonerate: Build a bottle for Linuxbrew
 class Exonerate < Formula
   desc "Pairwise sequence alignment of DNA and proteins"
   homepage "http://www.ebi.ac.uk/about/vertebrate-genomics/software/exonerate"
