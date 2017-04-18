@@ -1,3 +1,4 @@
+# poa: Build a bottle for Linuxbrew
 class Poa < Formula
   homepage "https://sourceforge.net/projects/poamsa/"
   # doi "10.1093/bioinformatics/18.3.452"
