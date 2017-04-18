@@ -1,3 +1,4 @@
+# yaha: Build a bottle for Linuxbrew
 class LinuxRequirement < Requirement
   fatal true
   satisfy OS.linux?
