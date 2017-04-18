@@ -1,3 +1,4 @@
+# prodigal: Build a bottle for Linuxbrew
 class Prodigal < Formula
   homepage "http://prodigal.ornl.gov/"
   head "https://github.com/hyattpd/Prodigal.git"
