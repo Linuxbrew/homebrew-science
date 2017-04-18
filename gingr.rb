@@ -1,3 +1,4 @@
+# gingr: Build a bottle for Linuxbrew
 class Gingr < Formula
   homepage "https://github.com/marbl/harvest/blob/master/docs/content/gingr.rst"
   head "https://github.com/marbl/gingr.git"
