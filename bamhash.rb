@@ -1,3 +1,4 @@
+# bamhash: Build a bottle for Linuxbrew
 class Bamhash < Formula
   desc "Hash BAM and FASTQ files to verify data integrity"
   homepage "https://github.com/DecodeGenetics/BamHash"
