@@ -1,3 +1,4 @@
+# bwa: Build a bottle for Linuxbrew
 class Bwa < Formula
   desc "Burrow-Wheeler Aligner for pairwise alignment of DNA"
   homepage "https://github.com/lh3/bwa"
