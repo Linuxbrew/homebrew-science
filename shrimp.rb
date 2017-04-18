@@ -1,3 +1,4 @@
+# shrimp: Build a bottle for Linuxbrew
 class Shrimp < Formula
   homepage "http://compbio.cs.toronto.edu/shrimp/"
   # tag "bioinformatics"
