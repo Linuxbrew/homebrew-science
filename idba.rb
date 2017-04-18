@@ -1,3 +1,4 @@
+# idba: Build a bottle for Linuxbrew
 class Idba < Formula
   desc "Iterative De Bruijn Graph De Novo Assembler for sequence assembly"
   homepage "http://i.cs.hku.hk/~alse/hkubrg/projects/idba/"
