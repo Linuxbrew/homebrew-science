@@ -1,3 +1,4 @@
+# bowtie: Build a bottle for Linuxbrew
 class Bowtie < Formula
   desc "Ultrafast memory-efficient short read aligner"
   homepage "https://bowtie-bio.sourceforge.io/"
