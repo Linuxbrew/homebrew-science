@@ -1,3 +1,4 @@
+# fasta: Build a bottle for Linuxbrew
 class Fasta < Formula
   homepage "http://faculty.virginia.edu/wrpearson/fasta/"
   # doi "10.1016/0076-6879(90)83007-V"
