@@ -1,3 +1,4 @@
+# mlst: Build a bottle for Linuxbrew
 class Mlst < Formula
   desc "Multi-Locus Sequence Typing of microbial contigs"
   homepage "https://github.com/tseemann/mlst"
