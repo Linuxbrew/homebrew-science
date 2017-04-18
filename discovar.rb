@@ -1,3 +1,4 @@
+# discovar: Build a bottle for Linuxbrew
 class Discovar < Formula
   desc "Genome variant caller using Illumina reads"
   homepage "https://www.broadinstitute.org/software/discovar/blog/"
