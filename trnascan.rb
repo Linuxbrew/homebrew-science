@@ -1,3 +1,4 @@
+# trnascan: Build a bottle for Linuxbrew
 class Trnascan < Formula
   desc "tRNA detection in large-scale genome sequence"
   homepage "http://eddylab.org/software.html"
