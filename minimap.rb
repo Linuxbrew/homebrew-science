@@ -1,3 +1,4 @@
+# minimap: Build a bottle for Linuxbrew
 class Minimap < Formula
   desc "Find approx mapping positions between long sequences"
   homepage "https://github.com/lh3/minimap"
