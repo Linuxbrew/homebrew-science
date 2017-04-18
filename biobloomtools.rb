@@ -1,3 +1,4 @@
+# biobloomtools: Build a bottle for Linuxbrew
 class Biobloomtools < Formula
   desc "BioBloom Tools (BBT): Bloom filter for bioinformatics"
   homepage "http://www.bcgsc.ca/platform/bioinfo/software/biobloomtools/"
