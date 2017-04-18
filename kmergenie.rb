@@ -1,3 +1,4 @@
+# kmergenie: Build a bottle for Linuxbrew
 class Kmergenie < Formula
   desc "Estimates the best k-mer length for genome de novo assembly"
   homepage "http://kmergenie.bx.psu.edu/"
