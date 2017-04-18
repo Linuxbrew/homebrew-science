@@ -1,3 +1,4 @@
+# bamutil: Build a bottle for Linuxbrew
 class Bamutil < Formula
   desc "Collection of tools to work with SAM/BAM files."
   homepage "http://genome.sph.umich.edu/wiki/BamUtil"
