@@ -1,3 +1,4 @@
+# fastuniq: Build a bottle for Linuxbrew
 class Fastuniq < Formula
   homepage "http://sourceforge.net/projects/fastuniq/"
   # tag "bioinformatics"
