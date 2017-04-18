@@ -1,3 +1,4 @@
+# mitofy: Build a bottle for Linuxbrew
 class Mitofy < Formula
   homepage "http://dogma.ccbb.utexas.edu/mitofy/"
   # doi "10.1093/molbev/msq029"
