@@ -1,3 +1,4 @@
+# cerulean: Build a bottle for Linuxbrew
 class Cerulean < Formula
   homepage "https://sourceforge.net/projects/ceruleanassembler/"
   # doi "arXiv:1307.7933"
