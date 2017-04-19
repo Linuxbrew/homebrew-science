@@ -1,3 +1,4 @@
+# delly: Build a bottle for Linuxbrew
 class Delly < Formula
   desc "Structural variant discovery by paired-end and split-read analysis"
   homepage "https://github.com/tobiasrausch/delly"
