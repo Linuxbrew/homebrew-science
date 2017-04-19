@@ -1,3 +1,4 @@
+# poretools: Build a bottle for Linuxbrew
 class Poretools < Formula
   include Language::Python::Virtualenv
 
