@@ -1,3 +1,4 @@
+# tophat: Build a bottle for Linuxbrew
 class Tophat < Formula
   desc "Spliced read mapper for RNA-Seq"
   homepage "http://ccb.jhu.edu/software/tophat"
