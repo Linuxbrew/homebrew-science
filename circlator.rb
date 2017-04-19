@@ -1,3 +1,4 @@
+# circlator: Build a bottle for Linuxbrew
 class Circlator < Formula
   include Language::Python::Virtualenv
 
