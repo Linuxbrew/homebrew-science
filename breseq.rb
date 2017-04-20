@@ -1,3 +1,4 @@
+# breseq: Build a bottle for Linuxbrew
 class Breseq < Formula
   desc "Find mutations in microbes from short reads"
   homepage "http://barricklab.org/twiki/bin/view/Lab/ToolsBacterialGenomeResequencing"
