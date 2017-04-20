@@ -1,3 +1,4 @@
+# dida: Build a bottle for Linuxbrew
 class Dida < Formula
   desc "Distributed Indexing Dispatched Alignment"
   homepage "http://www.bcgsc.ca/platform/bioinfo/software/dida"
