@@ -1,3 +1,4 @@
+# andi: Build a bottle for Linuxbrew
 class Andi < Formula
   desc "Estimate evolutionary distance between similar genomes"
   homepage "https://github.com/EvolBioInf/andi"
