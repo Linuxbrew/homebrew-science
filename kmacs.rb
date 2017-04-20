@@ -1,3 +1,4 @@
+# kmacs: Build a bottle for Linuxbrew
 class Kmacs < Formula
   desc "k Mismatch Average Common Substring Approach"
   homepage "http://kmacs.gobics.de/"
