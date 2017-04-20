@@ -1,3 +1,4 @@
+# clonehd: Build a bottle for Linuxbrew
 class Clonehd < Formula
   desc "High-definition reconstruction of clonal composition"
   homepage "http://www.sanger.ac.uk/science/tools/clonehd"
