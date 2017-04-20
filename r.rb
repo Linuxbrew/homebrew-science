@@ -1,3 +1,4 @@
+# r: Build a bottle for Linuxbrew
 class RDownloadStrategy < SubversionDownloadStrategy
   def stage
     cp_r File.join(cached_location, "."), Dir.pwd
