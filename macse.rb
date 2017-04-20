@@ -1,3 +1,4 @@
+# macse: Build a bottle for Linuxbrew
 class Macse < Formula
   desc "Multiple Alignment of Coding SEquences"
   homepage "http://bioweb.supagro.inra.fr/macse/"
