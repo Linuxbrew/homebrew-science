@@ -12,6 +12,8 @@ class Gaemr < Formula
     sha256 "15139afc47141dfd4df15b9ad8f75b6801624b26fadd63be6b5bbd61b7657fda" => :mountain_lion
   end
 
+  depends_on :python
+
   def install
     libexec.install Dir["*"]
     bin.install_symlink "../libexec/bin/GAEMR.py"
