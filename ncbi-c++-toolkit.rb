@@ -1,3 +1,4 @@
+# ncbi-c++-toolkit: Build a bottle for Linuxbrew
 class NcbiCxxToolkit < Formula
   desc "Collection of libraries for working with biological data."
   homepage "http://www.ncbi.nlm.nih.gov/toolkit/"
