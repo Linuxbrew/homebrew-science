@@ -1,3 +1,4 @@
+# quaff: Build a bottle for Linuxbrew
 class Quaff < Formula
   desc "Pair HMM for aligning FASTQ to FASTA reference"
   homepage "https://github.com/ihh/quaff"
