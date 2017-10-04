@@ -1,3 +1,4 @@
+# ensembl-tools: Build a bottle for Linuxbrew
 class EnsemblTools < Formula
   homepage "http://www.ensembl.org/info/docs/tools/index.html"
   # tag "bioinformatics"
