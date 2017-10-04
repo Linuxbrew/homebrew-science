@@ -1,3 +1,4 @@
+# garli: Build a bottle for Linuxbrew
 class Garli < Formula
   desc "genetic algorithm for rapid likelihood inference of phylogenies"
   homepage "https://code.google.com/p/garli/"
