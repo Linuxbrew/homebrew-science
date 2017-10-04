@@ -1,3 +1,4 @@
+# sortmerna: Build a bottle for Linuxbrew
 class Sortmerna < Formula
   desc "SortMeRNA: filter metatranscriptomic ribosomal RNA"
   homepage "http://bioinfo.lifl.fr/RNA/sortmerna/"
