@@ -1,3 +1,4 @@
+# harvest-tools: Build a bottle for Linuxbrew
 class HarvestTools < Formula
   desc "Utility for creating and interfacing with Gingr files"
   homepage "https://github.com/marbl/harvest-tools"
