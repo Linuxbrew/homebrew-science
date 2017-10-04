@@ -1,3 +1,4 @@
+# meraculous: Build a bottle for Linuxbrew
 class Meraculous < Formula
   homepage "http://jgi.doe.gov/data-and-tools/meraculous/"
   # doi "10.1371/journal.pone.0023501"
