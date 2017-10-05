@@ -1,3 +1,4 @@
+# mira: Build a bottle for Linuxbrew
 class Mira < Formula
   homepage "http://sourceforge.net/projects/mira-assembler"
   # doi "10.1101/gr.1917404"
