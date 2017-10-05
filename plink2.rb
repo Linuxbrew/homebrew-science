@@ -1,3 +1,4 @@
+# plink2: Build a bottle for Linuxbrew
 class Plink2 < Formula
   desc "Analyze genotype and phenotype data"
   homepage "https://www.cog-genomics.org/plink2"
