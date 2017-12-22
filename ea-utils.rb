@@ -1,3 +1,4 @@
+# ea-utils: Build a bottle for Linuxbrew
 class EaUtils < Formula
   desc "Tools for processing biological sequencing data"
   homepage "https://code.google.com/p/ea-utils/"
