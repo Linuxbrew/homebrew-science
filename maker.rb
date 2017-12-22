@@ -1,3 +1,4 @@
+# maker: Build a bottle for Linuxbrew
 class Maker < Formula
   homepage "http://www.yandell-lab.org/software/maker.html"
   # doi '10.1101/gr.6743907' => 'MAKER', '10.1186/1471-2105-12-491' => 'MAKER2', '10.1104/pp.113.230144' => 'MAKER-P'
